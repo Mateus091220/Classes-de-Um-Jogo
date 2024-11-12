@@ -1,7 +1,7 @@
 # Classes-de-Um-Jogo
 ##### Projeto do Curso de Lógica de Programação da DIO - Onde foi proposto, criar as classes genéricas que represente um herói de uma aventura
 
-####Descrição do Projeto
+#### Descrição do Projeto
 ###### Este projeto consiste em uma classe Hero que representa personagens em um jogo de aventura, cada um com características e habilidades específicas. A classe permite criar heróis com atributos de nome, idade e tipo (como guerreiro, mago, monge ou ninja). Cada tipo de herói possui um ataque característico, implementado através de métodos que definem a ação de ataque de acordo com o tipo de personagem.
 
 #### Funcionalidade 
